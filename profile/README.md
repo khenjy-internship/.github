@@ -16,3 +16,12 @@ An all-in-one solution for managing internship programs at universities or organ
 ## Installation Guide
 1. Clone this repository.
 2. Install dependencies:
+3. Configure `.env` file for database connection.
+4. Run migrations:
+5. Start the development server:
+
+## Contributing
+Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md) for more information.
+
+## License
+[MIT License](LICENSE)
